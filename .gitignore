@@ -95,3 +95,5 @@ modules.xml
 
 
 # End of https://www.gitignore.io/api/rust,intellij+all
+config.bat
+node_modules
